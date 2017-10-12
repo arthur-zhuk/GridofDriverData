@@ -3,7 +3,7 @@ Utilizing Screen-Grid this app will show a histogram grid of data points dependi
 To view the app run:
 
 ```
-npm install && npm start
+npm i && npm start
 ```
 or 
 ```
