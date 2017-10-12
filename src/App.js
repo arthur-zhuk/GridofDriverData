@@ -5,7 +5,6 @@ import {json as getJson} from 'd3-request';
 import './App.css';
       
 const MAPBOX_TOKEN = process.env.MapboxAccessToken; // eslint-disable-line
-const DRIVER_DATA = '../trips/2017-02-16--00-11-22.json'; // eslint-disable-line
 
 class App extends Component {
   constructor(props) {
