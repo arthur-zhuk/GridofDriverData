@@ -5,8 +5,8 @@ import DeckGL, {ScreenGridLayer} from 'deck.gl';
 class DeckGLOverlay extends Component {
   static get defaultViewport() {
     return {
-      longitude: -122.39242219446099,
-      latitude: 37.74977073928103,
+      longitude: -121.943184,
+      latitude: 37.4926685,
       zoom: 10,
       maxZoom: 20,
       pitch: 0,
